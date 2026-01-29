@@ -51,3 +51,6 @@ A horse is a beautiful animal.
 
 # 其他
 - ask (sb.) for sth. (向某人)要某物
+- in return for … 为了报答……, 以答谢……
+- tell sb. about sth./sb. 告诉某人关于…的情况
+- tell sb. sth. 告诉某人某事
