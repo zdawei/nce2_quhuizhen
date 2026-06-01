@@ -1,3 +1,12 @@
+<!--
+ * @Author: DaWei
+ * @Date: 2026-01-20 21:40:00
+ * @LastEditors: DaWei
+ * @LastEditTime: 2026-06-01 09:49:29
+ * @FilePath: /LiYanLongEnglish/新概念英语2册/Lesson4.md
+ * @Description: 请填写文件描述
+ * 大佬别走，带带弟弟
+-->
 # exciting & excited
 - exciting adj. 令人兴奋的
 - excited adj. 感到兴奋的
@@ -47,8 +56,7 @@ I received an invitation, but I didn’t accept it。
 
 ## 现在完成时的标志词
 
-句中出现下列时间状语常常提示我们应该
-使用现在完成时：
+句中出现下列时间状语常常提示我们应该使用现在完成时：
 just( 英 式 ), already, yet, ever, never,
 lately, recently, so far, up to now, before,
 for..., since...,...
@@ -69,8 +77,7 @@ finish, buy，。。。
 - work for +公司
 - work as +职务+ for +公司
 - work in / at +公司
-- He is working as an engineer for a big
-firm
+- He is working as an engineer for a big firm
 
 # already & yet
 
