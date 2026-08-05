@@ -6,8 +6,8 @@ news [U]
 
 # away from
 - A is … (away) from B A地离B地有多远
-- Tianjin is about 200 kilometers (away)
-- from Beijing. A is far (away) from B A地离B地很远
+- Tianjin is about 200 kilometers (away) from Beijing. 
+- A is far (away) from B A地离B地很远
 - My hometown is far (away) from Beijing.
 
 # in
