@@ -18,8 +18,7 @@
 # pay 
 ## pay (sb.) back (sth.)
 1. 还钱给某人
-- Have you paid (me) back the money you 
-owe me yet? 
+- Have you paid (me) back the money you owe me yet? 
 - I'll pay you back next week.
 2. 报复某人
 - I'll pay him back for making me look like a fool in front of everyone
